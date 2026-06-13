@@ -13,19 +13,17 @@ This site provides a public preview of an ongoing research program on reader-cen
 ## Current Public Scope
 
 This site currently provides:
-
-a high-level overview of RCRE,
-the conceptual dimensions of reader-centricity,
-the role of Requirements Profiles,
-practical implications for requirements review,
-validity boundaries and cautions,
-public-facing resources and roadmap.
+- a high-level overview of RCRE,
+- the conceptual dimensions of reader-centricity,
+- the role of Requirements Profiles,
+- practical implications for requirements review,
+- validity boundaries and cautions,
+- public-facing resources and roadmap.
 
 This site does not currently provide:
-
-industrial requirement datasets,
-full scoring rubrics,
-detailed empirical results,
-project-specific role profiles,
-confidential functional safety examples,
-complete tool implementations.
+- industrial requirement datasets,
+- full scoring rubrics,
+- detailed empirical results,
+- project-specific role profiles,
+- confidential functional safety examples,
+- complete tool implementations.
