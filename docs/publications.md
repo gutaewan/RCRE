@@ -4,7 +4,7 @@ This page summarizes publications and ongoing research related to Reader-Centric
 
 ## Published Work
 
-### Reader-Centric Requirements Engineering
+### Reader-Centric Requirements Engineering (RCRE): A practical approach for consumable requirements
 
 A previously published paper introduced the foundation of Reader-Centric Requirements Engineering and motivated the need to view requirements not only as authored statements, but also as information artifacts consumed by intended readers.
 
