@@ -1,9 +1,3 @@
----
-
-title: Validity Boundaries
-nav_order: 6
-------------
-
 # Validity Boundaries
 
 This page summarizes the current boundaries of the Reader-Centric Requirements Engineering (RCRE) research program.
