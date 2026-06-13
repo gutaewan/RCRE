@@ -47,3 +47,8 @@ The goal is not to reward expert guesswork. If meaning can only be reconstructed
 ## Current Public Status
 
 The public site does not disclose the full scoring rubric, thresholds, or empirical scoring details at this stage. These materials will be considered for release after paper submission and review.
+
+## Related Pages 
+- Previous: [Conceptual Model](conceptual-model.html)
+- Next: [Requirements Profile](requirements-profile.html)
+- [Back to Home](../)
