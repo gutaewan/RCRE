@@ -47,3 +47,15 @@ Possible actions include:
 - downstream refinement.
 
 Actionability is related to verifiability, but it is broader. Verifiability asks whether compliance can be checked. Actionability asks whether the reader can derive an appropriate engineering action.
+
+
+## Related Pages 
+- Previous: [Overview](overview.html) -
+- Next: [Measurement Model](measurement-model.html)
+- [Requirements Profile](requirements-profile.html)
+- [Discussion](discussion.html)
+- [Validity Boundaries](validity-boundaries.html)
+- [Examples](examples.html)
+- [Resources](resources.html)
+- [Publications](publications.html)
+- [Back to Home](../)
