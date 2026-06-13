@@ -10,7 +10,8 @@ A previously published paper introduced the foundation of Reader-Centric Require
 
 * **DOI:** https://doi.org/10.1016/j.infsof.2026.108194
 * **Journal:** Information and Software Technology
-* **Status:** Published
+* **Status:** Published (May 15, 2026)
+* **Supplementary Materials:** [GitHub Repository](https://github.com/gutaewan/RCRE-Supplementary-Materials)
 
 This publication provides the conceptual basis for the current RCRE research direction. The present work extends this foundation by operationalizing reader-centricity as a construct-based measurement model.
 
