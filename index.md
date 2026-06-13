@@ -1,4 +1,4 @@
-Reader-Centric Requirements Engineering
+# Reader-Centric Requirements Engineering
 
 Reader-Centric Requirements Engineering (RCRE) is a research framework for studying how requirements become practically usable by their intended readers.
 
@@ -10,7 +10,7 @@ Can the intended reader understand what the requirement means, identify what inf
 
 This site provides a public preview of an ongoing research program on reader-centricity in requirements engineering. Detailed empirical data, scoring materials, industrial examples, and full evaluation results are intentionally withheld until the related paper has been submitted and reviewed.
 
-Current Public Scope
+## Current Public Scope
 
 This site currently provides:
 
