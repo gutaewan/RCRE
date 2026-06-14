@@ -144,3 +144,8 @@ The current public preview does not establish:
 * proven performance improvement after remediation.
 
 These issues require replicated studies, calibrated thresholds, retained independent ratings, and before-after evaluations of downstream engineering tasks.
+
+## Related Pages 
+- Previous: [Discussion](discussion.md)
+- Next: [Examples](examples.md)
+- [Back to Home](../)
