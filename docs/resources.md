@@ -4,6 +4,16 @@ This page summarizes the planned public resources for Reader-Centric Requirement
 
 The current repository is a public preview. Detailed empirical data, industrial examples, full scoring materials, and confidential evaluation artifacts are not included at this stage.
 
+## Research Context Materials
+
+The following public-facing materials summarize the research context of RCRE:
+
+- [Research Landscape](research-landscape.md)
+- [Research Positioning](research-positioning.md)
+- [Conventional Quality Map](conventional-quality-map.md)
+- [Terminology](terminology.md)
+- [Research Roadmap](research-roadmap.md)
+
 ## Available Now
 
 The following materials are available in the current public preview:
@@ -215,3 +225,8 @@ After the research scope and publication plan are stabilized, contribution guide
 The license for public resources will be finalized after the publication and release strategy is determined.
 
 Until then, the repository should be treated as a research preview rather than a complete open-source release.
+
+## Related Pages 
+- Previous: [Examples](examples.md)
+- Next: [Publications](publications.md)
+- [Back to Home](../)
