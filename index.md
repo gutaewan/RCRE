@@ -30,12 +30,12 @@ This site does not currently provide:
 
 
 ## Documentation
-- [Overview](docs/overview.html)
-- [Conceptual Model](docs/conceptual-model.html)
-- [Measurement Model](docs/measurement-model.html)
-- [Requirements Profile](docs/requirements-profile.html)
-- [Discussion](docs/discussion.html)
-- [Validity Boundaries](docs/validity-boundaries.html)
-- [Examples](docs/examples.html)
-- [Resources](docs/resources.html)
-- [Publications](docs/publications.html)
+- [Overview](docs/overview.md)
+- [Conceptual Model](docs/conceptual-model.md)
+- [Measurement Model](docs/measurement-model.md)
+- [Requirements Profile](docs/requirements-profile.md)
+- [Discussion](docs/discussion.md)
+- [Validity Boundaries](docs/validity-boundaries.md)
+- [Examples](docs/examples.md)
+- [Resources](docs/resources.md)
+- [Publications](docs/publications.md)
