@@ -7,6 +7,9 @@ RCRE is positioned at the intersection of requirement quality, requirement writi
 
 The purpose of this page is to explain the research context of RCRE without disclosing unpublished empirical data, detailed scoring materials, or confidential industrial examples.
 
+<img width="2262" height="3345" alt="fig_related_work_landscape" src="https://github.com/user-attachments/assets/a65c5f9b-9d92-45c9-98cf-34bea129ea85" />
+
+
 ## Overview
 
 Traditional requirements engineering has long studied how to produce high-quality requirements. Existing work has emphasized whether requirements are complete, consistent, unambiguous, feasible, verifiable, traceable, and necessary.
