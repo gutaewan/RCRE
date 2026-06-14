@@ -1,8 +1,3 @@
----
-
-title: Research Landscape
-nav_order: 2
-------------
 
 # Research Landscape
 
