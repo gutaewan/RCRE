@@ -28,12 +28,12 @@ Whether the intended reader can determine what engineering action should follow.
 These dimensions are not intended to replace conventional requirement quality attributes. Instead, they explain how conventional qualities become usable from the reader’s perspective.
 
 ## Related Pages 
-- Next: [Conceptual Model](conceptual-model.html)
-- [Measurement Model](measurement-model.html)
-- [Requirements Profile](requirements-profile.html)
-- [Discussion](discussion.html)
-- [Validity Boundaries](validity-boundaries.html)
-- [Examples](examples.html)
-- [Resources](resources.html)
-- [Publications](publications.html)
+- Next: [Conceptual Model](conceptual-model.md)
+- [Measurement Model](measurement-model.md)
+- [Requirements Profile](requirements-profile.md)
+- [Discussion](discussion.md)
+- [Validity Boundaries](validity-boundaries.md)
+- [Examples](examples.md)
+- [Resources](resources.md)
+- [Publications](publications.md)
 - [Back to Home](../)
