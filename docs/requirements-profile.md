@@ -39,3 +39,9 @@ Missing information may be handled in different ways:
 - or it may not be missing for the current reader task.
 
 This distinction is important because reader-centricity is about supporting reader-side use, not about making every requirement longer.
+
+
+## Related Pages 
+- Previous: [Measurement Model](measurement-model.md)
+- Next: [Discussion](discussion.md)
+- [Back to Home](../)
