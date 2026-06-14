@@ -56,3 +56,8 @@ RCRE is part of a broader research direction on:
 * measurement models in requirements engineering,
 * Requirements Profile-based operationalization,
 * diagnostic support for downstream requirement use.
+
+
+## Related Pages 
+- Previous: [Resources](resources.md)
+- [Back to Home](../)
