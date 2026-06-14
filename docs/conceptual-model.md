@@ -50,6 +50,6 @@ Actionability is related to verifiability, but it is broader. Verifiability asks
 
 
 ## Related Pages 
-- Previous: [Overview](overview.html)
-- Next: [Measurement Model](measurement-model.html)
+- Previous: [Overview](overview.md)
+- Next: [Measurement Model](measurement-model.md)
 - [Back to Home](../)
